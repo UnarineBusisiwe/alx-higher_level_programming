@@ -1,4 +1,2 @@
-0x0A. Python - Inheritance
+0x0B. Python - Input/Output
 Python
-OOP
-Inheritance
